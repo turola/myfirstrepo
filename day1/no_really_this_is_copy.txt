@@ -1,0 +1,7 @@
+this is the copy file!
+
+we are writing a text inside the file that I created as an excersice for 
+the github lesson
+
+this is the second time opening the file first.txt
+
